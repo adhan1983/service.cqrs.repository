@@ -3,3 +3,6 @@
 ################################################################################
 
 /AOM.CRQS.Service/.vs/AOM.CRQS.Service/v16/Server/sqlite3
+/AOM.CRQS.Service/.vs/AOM.CRQS.Service/v16/.suo
+/AOM.CRQS.Service/AOM.CQRS.Api/bin/Debug/netcoreapp3.1
+/AOM.CRQS.Service/AOM.CQRS.Api/obj
